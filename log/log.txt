@@ -1,0 +1,221 @@
+2017-07-23 13:37:11,256 ERROR [com.epam.ta.parking.controller.command.impl.CreateVehicle] com.epam.ta.parking.service.exception.ServiceException: com.epam.ta.parking.dao.exception.DaoLogicalException: Vehicle already registered.
+2017-07-23 13:39:42,708 ERROR [com.epam.ta.parking.controller.command.impl.CreateVehicle] com.epam.ta.parking.service.exception.ServiceException: com.epam.ta.parking.dao.exception.DaoLogicalException: Vehicle already registered.
+2017-07-23 13:40:26,252 ERROR [com.epam.ta.parking.controller.command.impl.CreateVehicle] com.epam.ta.parking.service.exception.ServiceException: com.epam.ta.parking.dao.exception.DaoLogicalException: Vehicle already registered.
+2017-07-23 13:41:12,958 ERROR [com.epam.ta.parking.controller.command.impl.CreateVehicle] com.epam.ta.parking.service.exception.ServiceException: com.epam.ta.parking.dao.exception.DaoLogicalException: Vehicle already registered.
+2017-07-23 13:51:56,469 ERROR [com.epam.ta.parking.controller.command.impl.CreateVehicle] com.epam.ta.parking.service.exception.ServiceException: com.epam.ta.parking.dao.exception.DaoLogicalException: Vehicle already registered.
+2017-07-23 13:52:26,822 ERROR [com.epam.ta.parking.controller.command.impl.CreateVehicle] com.epam.ta.parking.service.exception.ServiceException: com.epam.ta.parking.dao.exception.DaoLogicalException: Vehicle already registered.
+2017-07-23 14:16:06,102 ERROR [com.epam.ta.parking.controller.command.impl.CreateVehicle] com.epam.ta.parking.service.exception.ServiceException: com.epam.ta.parking.dao.exception.DaoLogicalException: Vehicle already registered.
+2017-07-23 14:17:32,598 ERROR [com.epam.ta.parking.controller.command.impl.CreateVehicle] com.epam.ta.parking.service.exception.ServiceException: com.epam.ta.parking.dao.exception.DaoLogicalException: Vehicle already registered.
+2017-07-23 14:19:15,971 ERROR [com.epam.ta.parking.controller.command.impl.CreateVehicle] com.epam.ta.parking.service.exception.ServiceException: com.epam.ta.parking.dao.exception.DaoLogicalException: Vehicle already registered.
+2017-07-23 14:43:29,685 ERROR [com.epam.ta.parking.controller.command.impl.CreateVehicle] com.epam.ta.parking.service.exception.ServiceException: com.epam.ta.parking.dao.exception.DaoLogicalException: Vehicle already registered.
+2017-07-23 14:48:39,116 ERROR [com.epam.ta.parking.controller.command.impl.CreateVehicle] com.epam.ta.parking.service.exception.ServiceException: com.epam.ta.parking.dao.exception.DaoLogicalException: Vehicle already registered.
+2017-07-23 14:51:04,353 ERROR [com.epam.ta.parking.controller.command.impl.CreateVehicle] com.epam.ta.parking.service.exception.ServiceException: com.epam.ta.parking.dao.exception.DaoLogicalException: Vehicle already registered.
+2017-07-23 14:51:19,990 ERROR [com.epam.ta.parking.controller.command.CommandProvider] java.lang.IllegalArgumentException: No enum constant com.epam.ta.parking.controller.command.CommandName.CREATE_THE_VEHICLE
+2017-07-23 14:52:43,887 ERROR [com.epam.ta.parking.controller.command.impl.CreateVehicle] com.epam.ta.parking.service.exception.ServiceException: com.epam.ta.parking.dao.exception.DaoLogicalException: Vehicle already registered.
+2017-07-23 14:54:10,872 ERROR [com.epam.ta.parking.controller.command.CommandProvider] java.lang.IllegalArgumentException: No enum constant com.epam.ta.parking.controller.command.CommandName.CREATE_THE_VEHICLE
+2017-07-23 14:54:53,261 ERROR [com.epam.ta.parking.controller.command.CommandProvider] java.lang.IllegalArgumentException: No enum constant com.epam.ta.parking.controller.command.CommandName.CREATE_VEHICLE
+2017-07-23 14:56:36,345 ERROR [com.epam.ta.parking.controller.command.CommandProvider] java.lang.IllegalArgumentException: No enum constant com.epam.ta.parking.controller.command.CommandName.CREATE_VEHICLE
+2017-07-23 14:56:55,019 ERROR [com.epam.ta.parking.controller.command.CommandProvider] java.lang.IllegalArgumentException: No enum constant com.epam.ta.parking.controller.command.CommandName.CREATE_VEHICLE
+2017-07-23 14:57:49,885 ERROR [com.epam.ta.parking.controller.command.CommandProvider] java.lang.IllegalArgumentException: No enum constant com.epam.ta.parking.controller.command.CommandName.CREATE_VEHICLE
+2017-07-23 14:58:42,739 ERROR [com.epam.ta.parking.controller.command.CommandProvider] java.lang.IllegalArgumentException: No enum constant com.epam.ta.parking.controller.command.CommandName.CREATE_VEHICLE
+2017-07-23 15:04:56,648 ERROR [com.epam.ta.parking.controller.command.CommandProvider] java.lang.IllegalArgumentException: No enum constant com.epam.ta.parking.controller.command.CommandName.CREATE_VEHICLE
+2017-07-23 15:12:49,980 ERROR [com.epam.ta.parking.controller.command.CommandProvider] java.lang.IllegalArgumentException: No enum constant com.epam.ta.parking.controller.command.CommandName.CREATE_VEHICLE
+2017-07-23 15:15:00,196 ERROR [com.epam.ta.parking.controller.command.CommandProvider] java.lang.IllegalArgumentException: No enum constant com.epam.ta.parking.controller.command.CommandName.CREATE_VEHICLE
+2017-07-23 15:15:48,411 ERROR [com.epam.ta.parking.controller.command.CommandProvider] java.lang.IllegalArgumentException: No enum constant com.epam.ta.parking.controller.command.CommandName.CREATE_VEHICLE
+2017-07-23 15:19:53,732 ERROR [com.epam.ta.parking.controller.command.CommandProvider] java.lang.IllegalArgumentException: No enum constant com.epam.ta.parking.controller.command.CommandName.CREATE_VEHICLE
+2017-07-23 15:32:19,364 ERROR [com.epam.ta.parking.controller.command.CommandProvider] java.lang.IllegalArgumentException: No enum constant com.epam.ta.parking.controller.command.CommandName.CREATE_VEHICLE
+2017-07-23 15:33:27,098 ERROR [com.epam.ta.parking.controller.command.CommandProvider] java.lang.IllegalArgumentException: No enum constant com.epam.ta.parking.controller.command.CommandName.CREATE_VEHICLE
+2017-07-23 15:34:49,679 ERROR [com.epam.ta.parking.controller.command.CommandProvider] java.lang.IllegalArgumentException: No enum constant com.epam.ta.parking.controller.command.CommandName.CREATE_VEHICLE
+2017-07-23 15:36:09,941 ERROR [com.epam.ta.parking.controller.command.CommandProvider] java.lang.IllegalArgumentException: No enum constant com.epam.ta.parking.controller.command.CommandName.CREATE_VEHICLE
+2017-07-23 15:37:10,386 ERROR [com.epam.ta.parking.controller.command.CommandProvider] java.lang.IllegalArgumentException: No enum constant com.epam.ta.parking.controller.command.CommandName.CREATE_VEHICLE
+2017-07-23 15:37:37,214 ERROR [com.epam.ta.parking.controller.command.impl.CreateVehicle] com.epam.ta.parking.service.exception.ServiceException: com.epam.ta.parking.dao.exception.DaoLogicalException: Vehicle already registered.
+2017-07-23 15:38:06,902 ERROR [com.epam.ta.parking.controller.command.impl.CreateVehicle] com.epam.ta.parking.service.exception.ServiceException: com.epam.ta.parking.dao.exception.DaoLogicalException: Vehicle already registered.
+2017-07-23 15:38:59,755 ERROR [com.epam.ta.parking.controller.command.CommandProvider] java.lang.IllegalArgumentException: No enum constant com.epam.ta.parking.controller.command.CommandName.CREATE_VEHICLE
+2017-07-23 15:43:57,870 ERROR [com.epam.ta.parking.controller.command.impl.CreateVehicle] com.epam.ta.parking.service.exception.ServiceException: com.epam.ta.parking.dao.exception.DaoLogicalException: Vehicle already registered.
+2017-07-23 15:46:27,614 ERROR [com.epam.ta.parking.controller.command.CommandProvider] java.lang.IllegalArgumentException: No enum constant com.epam.ta.parking.controller.command.CommandName.CREATE_VEHICLE
+2017-07-23 15:46:35,033 ERROR [com.epam.ta.parking.controller.command.impl.CreateVehicle] com.epam.ta.parking.service.exception.ServiceException: com.epam.ta.parking.dao.exception.DaoLogicalException: Vehicle already registered.
+2017-07-23 15:48:19,955 ERROR [com.epam.ta.parking.controller.command.CommandProvider] java.lang.IllegalArgumentException: No enum constant com.epam.ta.parking.controller.command.CommandName.CREATE_VEHICLE
+2017-07-23 15:48:29,909 ERROR [com.epam.ta.parking.controller.command.impl.CreateVehicle] com.epam.ta.parking.service.exception.ServiceException: com.epam.ta.parking.dao.exception.DaoLogicalException: Vehicle already registered.
+2017-07-23 15:49:30,661 ERROR [com.epam.ta.parking.controller.command.impl.CreateVehicle] com.epam.ta.parking.service.exception.ServiceException: com.epam.ta.parking.dao.exception.DaoLogicalException: Vehicle already registered.
+2017-07-23 15:49:48,751 ERROR [com.epam.ta.parking.controller.command.impl.CreateVehicle] com.epam.ta.parking.service.exception.ServiceException: com.epam.ta.parking.dao.exception.DaoLogicalException: Vehicle already registered.
+2017-07-23 15:55:57,479 ERROR [com.epam.ta.parking.controller.command.CommandProvider] java.lang.IllegalArgumentException: No enum constant com.epam.ta.parking.controller.command.CommandName.CREATE_VEHICLE
+2017-07-23 15:56:05,746 ERROR [com.epam.ta.parking.controller.command.impl.CreateVehicle] com.epam.ta.parking.service.exception.ServiceException: com.epam.ta.parking.dao.exception.DaoLogicalException: Vehicle already registered.
+2017-07-23 15:56:36,799 ERROR [com.epam.ta.parking.controller.command.impl.CreateVehicle] com.epam.ta.parking.service.exception.ServiceException: com.epam.ta.parking.dao.exception.DaoLogicalException: Vehicle already registered.
+2017-07-23 15:57:15,080 ERROR [com.epam.ta.parking.controller.command.CommandProvider] java.lang.IllegalArgumentException: No enum constant com.epam.ta.parking.controller.command.CommandName.CREATE_VEHICLE
+2017-07-23 15:58:42,333 ERROR [com.epam.ta.parking.controller.command.CommandProvider] java.lang.IllegalArgumentException: No enum constant com.epam.ta.parking.controller.command.CommandName.CREATE_VEHICLE
+2017-07-23 15:59:13,891 ERROR [com.epam.ta.parking.controller.command.CommandProvider] java.lang.IllegalArgumentException: No enum constant com.epam.ta.parking.controller.command.CommandName.CREATE_VEHICLE
+2017-07-23 15:59:21,052 ERROR [com.epam.ta.parking.controller.command.impl.CreateVehicle] com.epam.ta.parking.service.exception.ServiceLogicalException: com.epam.ta.parking.dao.exception.DaoLogicalException: Vehicle already registered.
+2017-07-23 16:04:28,082 ERROR [com.epam.ta.parking.controller.command.CommandProvider] java.lang.IllegalArgumentException: No enum constant com.epam.ta.parking.controller.command.CommandName.CREATE_VEHICLE
+2017-07-23 16:04:39,613 ERROR [com.epam.ta.parking.controller.command.CommandProvider] java.lang.IllegalArgumentException: No enum constant com.epam.ta.parking.controller.command.CommandName.CREATE_VEHICLE
+2017-07-23 16:04:57,680 ERROR [com.epam.ta.parking.controller.command.CommandProvider] java.lang.IllegalArgumentException: No enum constant com.epam.ta.parking.controller.command.CommandName.CREATE_VEHICLE
+2017-07-23 16:26:10,165 ERROR [com.epam.ta.parking.controller.command.CommandProvider] java.lang.IllegalArgumentException: No enum constant com.epam.ta.parking.controller.command.CommandName.CREATE_VEHICLE
+2017-07-24 09:59:14,955 ERROR [com.epam.ta.parking.controller.command.CommandProvider] java.lang.IllegalArgumentException: No enum constant com.epam.ta.parking.controller.command.CommandName.CREATE_VEHICLE
+2017-07-24 10:05:01,372 ERROR [com.epam.ta.parking.controller.command.CommandProvider] java.lang.IllegalArgumentException: No enum constant com.epam.ta.parking.controller.command.CommandName.CREATE_VEHICLE
+2017-07-24 11:20:28,271 ERROR [com.epam.ta.parking.controller.command.CommandProvider] java.lang.IllegalArgumentException: No enum constant com.epam.ta.parking.controller.command.CommandName.CREATE_VEHICLE
+2017-07-24 11:20:42,020 ERROR [com.epam.ta.parking.controller.command.CommandProvider] java.lang.IllegalArgumentException: No enum constant com.epam.ta.parking.controller.command.CommandName.CREATE_VEHICLE
+2017-07-24 11:24:02,784 ERROR [com.epam.ta.parking.controller.command.CommandProvider] java.lang.IllegalArgumentException: No enum constant com.epam.ta.parking.controller.command.CommandName.CREATE_VEHICLE
+2017-07-24 11:25:11,633 ERROR [com.epam.ta.parking.controller.command.CommandProvider] java.lang.IllegalArgumentException: No enum constant com.epam.ta.parking.controller.command.CommandName.CREATE_VEHICLE
+2017-07-24 11:25:39,904 ERROR [com.epam.ta.parking.controller.command.CommandProvider] java.lang.IllegalArgumentException: No enum constant com.epam.ta.parking.controller.command.CommandName.CREATE_VEHICLE
+2017-07-24 11:26:03,224 ERROR [com.epam.ta.parking.controller.command.CommandProvider] java.lang.IllegalArgumentException: No enum constant com.epam.ta.parking.controller.command.CommandName.CREATE_VEHICLE
+2017-07-24 11:26:32,073 ERROR [com.epam.ta.parking.controller.command.CommandProvider] java.lang.IllegalArgumentException: No enum constant com.epam.ta.parking.controller.command.CommandName.CREATE_VEHICLE
+2017-07-24 11:27:35,856 ERROR [com.epam.ta.parking.controller.command.CommandProvider] java.lang.IllegalArgumentException: No enum constant com.epam.ta.parking.controller.command.CommandName.CREATE_VEHICLE
+2017-07-24 11:29:34,198 ERROR [com.epam.ta.parking.controller.command.CommandProvider] java.lang.IllegalArgumentException: No enum constant com.epam.ta.parking.controller.command.CommandName.CREATE_VEHICLE
+2017-07-24 11:30:08,503 ERROR [com.epam.ta.parking.controller.command.CommandProvider] java.lang.IllegalArgumentException: No enum constant com.epam.ta.parking.controller.command.CommandName.CREATE_VEHICLE
+2017-07-24 11:30:57,318 ERROR [com.epam.ta.parking.controller.command.CommandProvider] java.lang.IllegalArgumentException: No enum constant com.epam.ta.parking.controller.command.CommandName.CREATE_VEHICLE
+2017-07-24 11:31:05,405 ERROR [com.epam.ta.parking.controller.command.CommandProvider] java.lang.IllegalArgumentException: No enum constant com.epam.ta.parking.controller.command.CommandName.CREATE_VEHICLE
+2017-07-24 11:31:48,461 ERROR [com.epam.ta.parking.controller.command.CommandProvider] java.lang.IllegalArgumentException: No enum constant com.epam.ta.parking.controller.command.CommandName.CREATE_VEHICLE
+2017-07-24 11:32:09,233 ERROR [com.epam.ta.parking.controller.command.CommandProvider] java.lang.IllegalArgumentException: No enum constant com.epam.ta.parking.controller.command.CommandName.CREATE_VEHICLE
+2017-07-24 11:44:54,993 ERROR [com.epam.ta.parking.controller.command.CommandProvider] java.lang.IllegalArgumentException: No enum constant com.epam.ta.parking.controller.command.CommandName.CREATE_VEHICLE
+2017-07-24 13:29:53,473 ERROR [com.epam.ta.parking.controller.command.CommandProvider] java.lang.IllegalArgumentException: No enum constant com.epam.ta.parking.controller.command.CommandName.CREATE_VEHICLE
+2017-07-24 13:30:09,291 ERROR [com.epam.ta.parking.controller.command.impl.ReserveSlot] com.epam.ta.parking.service.exception.ServiceException: com.epam.ta.parking.dao.exception.DaoTechnicalException: Database operation failed.
+2017-07-24 13:32:53,116 ERROR [com.epam.ta.parking.controller.command.CommandProvider] java.lang.IllegalArgumentException: No enum constant com.epam.ta.parking.controller.command.CommandName.CREATE_VEHICLE
+2017-07-24 13:33:18,889 ERROR [com.epam.ta.parking.controller.command.impl.ReserveSlot] com.epam.ta.parking.service.exception.ServiceException: com.epam.ta.parking.dao.exception.DaoTechnicalException: Database operation failed.
+2017-07-24 13:33:30,664 ERROR [com.epam.ta.parking.controller.command.impl.ReserveSlot] com.epam.ta.parking.service.exception.ServiceException: com.epam.ta.parking.dao.exception.DaoTechnicalException: Database operation failed.
+2017-07-24 13:34:08,020 ERROR [com.epam.ta.parking.controller.command.CommandProvider] java.lang.IllegalArgumentException: No enum constant com.epam.ta.parking.controller.command.CommandName.CREATE_VEHICLE
+2017-07-24 13:35:01,364 ERROR [com.epam.ta.parking.controller.command.impl.ReserveSlot] com.epam.ta.parking.service.exception.ServiceException: com.epam.ta.parking.dao.exception.DaoTechnicalException: Database operation failed.
+2017-07-24 13:36:02,700 ERROR [com.epam.ta.parking.controller.command.CommandProvider] java.lang.IllegalArgumentException: No enum constant com.epam.ta.parking.controller.command.CommandName.CREATE_VEHICLE
+2017-07-24 13:39:13,870 ERROR [com.epam.ta.parking.controller.command.CommandProvider] java.lang.IllegalArgumentException: No enum constant com.epam.ta.parking.controller.command.CommandName.CREATE_VEHICLE
+2017-07-24 13:58:22,440 ERROR [com.epam.ta.parking.controller.command.CommandProvider] java.lang.IllegalArgumentException: No enum constant com.epam.ta.parking.controller.command.CommandName.CREATE_VEHICLE
+2017-07-24 14:04:47,157 ERROR [com.epam.ta.parking.controller.command.CommandProvider] java.lang.IllegalArgumentException: No enum constant com.epam.ta.parking.controller.command.CommandName.CREATE_VEHICLE
+2017-07-24 14:05:36,892 ERROR [com.epam.ta.parking.controller.command.impl.ReserveSlot] com.epam.ta.parking.service.exception.ServiceLogicalException: com.epam.ta.parking.dao.exception.DaoLogicalException: Slot already exists.
+2017-07-24 14:05:43,797 ERROR [com.epam.ta.parking.controller.command.impl.ReserveSlot] com.epam.ta.parking.service.exception.ServiceLogicalException: com.epam.ta.parking.dao.exception.DaoLogicalException: Slot already exists.
+2017-07-24 14:06:56,503 ERROR [com.epam.ta.parking.controller.command.CommandProvider] java.lang.IllegalArgumentException: No enum constant com.epam.ta.parking.controller.command.CommandName.CREATE_VEHICLE
+2017-07-24 14:12:04,745 ERROR [com.epam.ta.parking.controller.command.CommandProvider] java.lang.IllegalArgumentException: No enum constant com.epam.ta.parking.controller.command.CommandName.CREATE_VEHICLE
+2017-07-24 14:16:46,261 ERROR [com.epam.ta.parking.controller.command.CommandProvider] java.lang.IllegalArgumentException: No enum constant com.epam.ta.parking.controller.command.CommandName.CREATE_VEHICLE
+2017-07-24 14:17:15,980 ERROR [com.epam.ta.parking.controller.command.CommandProvider] java.lang.IllegalArgumentException: No enum constant com.epam.ta.parking.controller.command.CommandName.CREATE_VEHICLE
+2017-07-24 14:17:51,961 ERROR [com.epam.ta.parking.controller.command.CommandProvider] java.lang.IllegalArgumentException: No enum constant com.epam.ta.parking.controller.command.CommandName.CREATE_VEHICLE
+2017-07-24 14:18:40,459 ERROR [com.epam.ta.parking.controller.command.CommandProvider] java.lang.IllegalArgumentException: No enum constant com.epam.ta.parking.controller.command.CommandName.CREATE_VEHICLE
+2017-07-24 14:18:51,993 ERROR [com.epam.ta.parking.controller.command.impl.ReserveSlot] com.epam.ta.parking.service.exception.ServiceLogicalException: com.epam.ta.parking.dao.exception.DaoLogicalException: Slot already exists.
+2017-07-24 14:18:59,295 ERROR [com.epam.ta.parking.controller.command.impl.ReserveSlot] com.epam.ta.parking.service.exception.ServiceLogicalException: com.epam.ta.parking.dao.exception.DaoLogicalException: Slot already exists.
+2017-07-24 14:24:15,147 ERROR [com.epam.ta.parking.controller.command.CommandProvider] java.lang.IllegalArgumentException: No enum constant com.epam.ta.parking.controller.command.CommandName.CREATE_VEHICLE
+2017-07-24 14:26:04,198 ERROR [com.epam.ta.parking.controller.command.CommandProvider] java.lang.IllegalArgumentException: No enum constant com.epam.ta.parking.controller.command.CommandName.CREATE_VEHICLE
+2017-07-24 14:26:24,028 ERROR [com.epam.ta.parking.controller.command.CommandProvider] java.lang.IllegalArgumentException: No enum constant com.epam.ta.parking.controller.command.CommandName.CREATE_VEHICLE
+2017-07-24 14:27:11,831 ERROR [com.epam.ta.parking.controller.command.CommandProvider] java.lang.IllegalArgumentException: No enum constant com.epam.ta.parking.controller.command.CommandName.CREATE_VEHICLE
+2017-07-24 14:30:31,586 ERROR [com.epam.ta.parking.controller.command.CommandProvider] java.lang.IllegalArgumentException: No enum constant com.epam.ta.parking.controller.command.CommandName.CREATE_VEHICLE
+2017-07-24 14:31:51,011 ERROR [com.epam.ta.parking.controller.command.CommandProvider] java.lang.IllegalArgumentException: No enum constant com.epam.ta.parking.controller.command.CommandName.CREATE_VEHICLE
+2017-07-24 14:32:32,407 ERROR [com.epam.ta.parking.controller.command.CommandProvider] java.lang.IllegalArgumentException: No enum constant com.epam.ta.parking.controller.command.CommandName.CREATE_VEHICLE
+2017-07-24 14:34:41,285 ERROR [com.epam.ta.parking.controller.command.CommandProvider] java.lang.IllegalArgumentException: No enum constant com.epam.ta.parking.controller.command.CommandName.CREATE_VEHICLE
+2017-07-24 14:36:05,715 ERROR [com.epam.ta.parking.controller.command.impl.ReserveSlot] com.epam.ta.parking.service.exception.ServiceLogicalException: com.epam.ta.parking.dao.exception.DaoLogicalException: Slot already exists.
+2017-07-24 14:36:08,594 ERROR [com.epam.ta.parking.controller.command.impl.ReserveSlot] com.epam.ta.parking.service.exception.ServiceLogicalException: com.epam.ta.parking.dao.exception.DaoLogicalException: Slot already exists.
+2017-07-24 15:48:12,716 ERROR [com.epam.ta.parking.controller.command.CommandProvider] java.lang.IllegalArgumentException: No enum constant com.epam.ta.parking.controller.command.CommandName.CREATE_VEHICLE
+2017-07-24 15:48:41,099 ERROR [com.epam.ta.parking.controller.command.CommandProvider] java.lang.IllegalArgumentException: No enum constant com.epam.ta.parking.controller.command.CommandName.CREATE_VEHICLE
+2017-07-24 16:14:53,004 ERROR [com.epam.ta.parking.controller.command.CommandProvider] java.lang.IllegalArgumentException: No enum constant com.epam.ta.parking.controller.command.CommandName.CREATE_VEHICLE
+2017-07-24 17:02:09,840 ERROR [com.epam.ta.parking.controller.command.CommandProvider] java.lang.IllegalArgumentException: No enum constant com.epam.ta.parking.controller.command.CommandName.CREATE_VEHICLE
+2017-07-24 17:05:58,636 ERROR [com.epam.ta.parking.controller.command.CommandProvider] java.lang.IllegalArgumentException: No enum constant com.epam.ta.parking.controller.command.CommandName.CREATE_VEHICLE
+2017-07-24 17:06:28,716 ERROR [com.epam.ta.parking.controller.command.CommandProvider] java.lang.IllegalArgumentException: No enum constant com.epam.ta.parking.controller.command.CommandName.CREATE_VEHICLE
+2017-07-24 17:07:31,555 ERROR [com.epam.ta.parking.controller.command.CommandProvider] java.lang.IllegalArgumentException: No enum constant com.epam.ta.parking.controller.command.CommandName.CREATE_VEHICLE
+2017-07-24 17:46:20,289 ERROR [com.epam.ta.parking.controller.command.CommandProvider] java.lang.IllegalArgumentException: No enum constant com.epam.ta.parking.controller.command.CommandName.CREATE_VEHICLE
+2017-07-24 17:49:58,707 ERROR [com.epam.ta.parking.controller.command.CommandProvider] java.lang.IllegalArgumentException: No enum constant com.epam.ta.parking.controller.command.CommandName.CREATE_VEHICLE
+2017-07-24 17:50:40,082 ERROR [com.epam.ta.parking.controller.command.CommandProvider] java.lang.IllegalArgumentException: No enum constant com.epam.ta.parking.controller.command.CommandName.CREATE_VEHICLE
+2017-07-24 17:51:12,567 ERROR [com.epam.ta.parking.controller.command.CommandProvider] java.lang.IllegalArgumentException: No enum constant com.epam.ta.parking.controller.command.CommandName.CREATE_VEHICLE
+2017-07-24 17:53:26,871 ERROR [com.epam.ta.parking.controller.command.CommandProvider] java.lang.IllegalArgumentException: No enum constant com.epam.ta.parking.controller.command.CommandName.CREATE_VEHICLE
+2017-07-24 17:55:13,465 ERROR [com.epam.ta.parking.controller.command.CommandProvider] java.lang.IllegalArgumentException: No enum constant com.epam.ta.parking.controller.command.CommandName.CREATE_VEHICLE
+2017-07-24 17:56:25,364 ERROR [com.epam.ta.parking.controller.command.CommandProvider] java.lang.IllegalArgumentException: No enum constant com.epam.ta.parking.controller.command.CommandName.CREATE_VEHICLE
+2017-07-24 17:57:58,013 ERROR [com.epam.ta.parking.controller.command.CommandProvider] java.lang.IllegalArgumentException: No enum constant com.epam.ta.parking.controller.command.CommandName.CREATE_VEHICLE
+2017-07-24 18:33:37,029 ERROR [com.epam.ta.parking.controller.command.CommandProvider] java.lang.IllegalArgumentException: No enum constant com.epam.ta.parking.controller.command.CommandName.CREATE_VEHICLE
+2017-07-24 18:35:15,143 ERROR [com.epam.ta.parking.controller.command.CommandProvider] java.lang.IllegalArgumentException: No enum constant com.epam.ta.parking.controller.command.CommandName.CREATE_VEHICLE
+2017-07-24 18:35:27,498 ERROR [com.epam.ta.parking.controller.command.CommandProvider] java.lang.IllegalArgumentException: No enum constant com.epam.ta.parking.controller.command.CommandName.CREATE_VEHICLE
+2017-07-24 18:36:56,439 ERROR [com.epam.ta.parking.controller.command.CommandProvider] java.lang.IllegalArgumentException: No enum constant com.epam.ta.parking.controller.command.CommandName.CREATE_VEHICLE
+2017-07-24 18:38:03,763 ERROR [com.epam.ta.parking.controller.command.CommandProvider] java.lang.IllegalArgumentException: No enum constant com.epam.ta.parking.controller.command.CommandName.CREATE_VEHICLE
+2017-07-24 18:38:38,131 ERROR [com.epam.ta.parking.controller.command.CommandProvider] java.lang.IllegalArgumentException: No enum constant com.epam.ta.parking.controller.command.CommandName.CREATE_VEHICLE
+2017-07-24 18:52:43,534 ERROR [com.epam.ta.parking.controller.command.CommandProvider] java.lang.IllegalArgumentException: No enum constant com.epam.ta.parking.controller.command.CommandName.CREATE_VEHICLE
+2017-07-24 19:33:46,998 ERROR [com.epam.ta.parking.controller.command.CommandProvider] java.lang.IllegalArgumentException: No enum constant com.epam.ta.parking.controller.command.CommandName.CREATE_VEHICLE
+2017-07-24 19:52:22,134 ERROR [com.epam.ta.parking.controller.command.CommandProvider] java.lang.IllegalArgumentException: No enum constant com.epam.ta.parking.controller.command.CommandName.CREATE_VEHICLE
+2017-07-24 19:57:21,419 ERROR [com.epam.ta.parking.controller.command.CommandProvider] java.lang.IllegalArgumentException: No enum constant com.epam.ta.parking.controller.command.CommandName.CREATE_VEHICLE
+2017-07-24 19:58:13,376 ERROR [com.epam.ta.parking.controller.command.CommandProvider] java.lang.IllegalArgumentException: No enum constant com.epam.ta.parking.controller.command.CommandName.CREATE_VEHICLE
+2017-07-24 19:59:07,187 ERROR [com.epam.ta.parking.controller.command.CommandProvider] java.lang.IllegalArgumentException: No enum constant com.epam.ta.parking.controller.command.CommandName.CREATE_VEHICLE
+2017-07-24 20:00:02,701 ERROR [com.epam.ta.parking.controller.command.CommandProvider] java.lang.IllegalArgumentException: No enum constant com.epam.ta.parking.controller.command.CommandName.CREATE_VEHICLE
+2017-07-24 20:01:26,211 ERROR [com.epam.ta.parking.controller.command.CommandProvider] java.lang.IllegalArgumentException: No enum constant com.epam.ta.parking.controller.command.CommandName.CREATE_VEHICLE
+2017-07-24 20:01:37,150 ERROR [com.epam.ta.parking.controller.command.CommandProvider] java.lang.IllegalArgumentException: No enum constant com.epam.ta.parking.controller.command.CommandName.CREATE_VEHICLE
+2017-07-24 20:02:41,197 ERROR [com.epam.ta.parking.controller.command.CommandProvider] java.lang.IllegalArgumentException: No enum constant com.epam.ta.parking.controller.command.CommandName.CREATE_VEHICLE
+2017-07-24 20:02:48,810 ERROR [com.epam.ta.parking.controller.command.CommandProvider] java.lang.IllegalArgumentException: No enum constant com.epam.ta.parking.controller.command.CommandName.CREATE_VEHICLE
+2017-07-24 20:04:11,839 ERROR [com.epam.ta.parking.controller.command.CommandProvider] java.lang.IllegalArgumentException: No enum constant com.epam.ta.parking.controller.command.CommandName.CREATE_VEHICLE
+2017-07-24 20:04:33,993 ERROR [com.epam.ta.parking.controller.command.CommandProvider] java.lang.IllegalArgumentException: No enum constant com.epam.ta.parking.controller.command.CommandName.CREATE_VEHICLE
+2017-07-24 20:05:04,710 ERROR [com.epam.ta.parking.controller.command.CommandProvider] java.lang.IllegalArgumentException: No enum constant com.epam.ta.parking.controller.command.CommandName.CREATE_VEHICLE
+2017-07-24 20:06:56,088 ERROR [com.epam.ta.parking.controller.command.CommandProvider] java.lang.IllegalArgumentException: No enum constant com.epam.ta.parking.controller.command.CommandName.CREATE_VEHICLE
+2017-07-24 20:07:26,456 ERROR [com.epam.ta.parking.controller.command.CommandProvider] java.lang.IllegalArgumentException: No enum constant com.epam.ta.parking.controller.command.CommandName.CREATE_VEHICLE
+2017-07-24 20:07:35,047 ERROR [com.epam.ta.parking.controller.command.CommandProvider] java.lang.IllegalArgumentException: No enum constant com.epam.ta.parking.controller.command.CommandName.CREATE_VEHICLE
+2017-07-24 20:07:42,072 ERROR [com.epam.ta.parking.controller.command.CommandProvider] java.lang.IllegalArgumentException: No enum constant com.epam.ta.parking.controller.command.CommandName.CREATE_VEHICLE
+2017-07-24 20:07:54,385 ERROR [com.epam.ta.parking.controller.command.CommandProvider] java.lang.IllegalArgumentException: No enum constant com.epam.ta.parking.controller.command.CommandName.CREATE_VEHICLE
+2017-07-24 20:08:01,168 ERROR [com.epam.ta.parking.controller.command.CommandProvider] java.lang.IllegalArgumentException: No enum constant com.epam.ta.parking.controller.command.CommandName.CREATE_VEHICLE
+2017-07-24 20:08:36,050 ERROR [com.epam.ta.parking.controller.command.CommandProvider] java.lang.IllegalArgumentException: No enum constant com.epam.ta.parking.controller.command.CommandName.CREATE_VEHICLE
+2017-07-24 20:08:59,017 ERROR [com.epam.ta.parking.controller.command.CommandProvider] java.lang.IllegalArgumentException: No enum constant com.epam.ta.parking.controller.command.CommandName.CREATE_VEHICLE
+2017-07-24 20:09:57,765 ERROR [com.epam.ta.parking.controller.command.CommandProvider] java.lang.IllegalArgumentException: No enum constant com.epam.ta.parking.controller.command.CommandName.CREATE_VEHICLE
+2017-07-24 20:11:04,151 ERROR [com.epam.ta.parking.controller.command.CommandProvider] java.lang.IllegalArgumentException: No enum constant com.epam.ta.parking.controller.command.CommandName.CREATE_VEHICLE
+2017-07-24 20:11:12,538 ERROR [com.epam.ta.parking.controller.command.CommandProvider] java.lang.IllegalArgumentException: No enum constant com.epam.ta.parking.controller.command.CommandName.CREATE_VEHICLE
+2017-07-24 20:11:20,447 ERROR [com.epam.ta.parking.controller.command.CommandProvider] java.lang.IllegalArgumentException: No enum constant com.epam.ta.parking.controller.command.CommandName.CREATE_VEHICLE
+2017-07-24 20:12:01,807 ERROR [com.epam.ta.parking.controller.command.CommandProvider] java.lang.IllegalArgumentException: No enum constant com.epam.ta.parking.controller.command.CommandName.CREATE_VEHICLE
+2017-07-24 20:12:08,565 ERROR [com.epam.ta.parking.controller.command.CommandProvider] java.lang.IllegalArgumentException: No enum constant com.epam.ta.parking.controller.command.CommandName.CREATE_VEHICLE
+2017-07-24 20:12:15,022 ERROR [com.epam.ta.parking.controller.command.CommandProvider] java.lang.IllegalArgumentException: No enum constant com.epam.ta.parking.controller.command.CommandName.CREATE_VEHICLE
+2017-07-24 20:12:49,439 ERROR [com.epam.ta.parking.controller.command.CommandProvider] java.lang.IllegalArgumentException: No enum constant com.epam.ta.parking.controller.command.CommandName.CREATE_VEHICLE
+2017-07-24 20:14:24,365 ERROR [com.epam.ta.parking.controller.command.CommandProvider] java.lang.IllegalArgumentException: No enum constant com.epam.ta.parking.controller.command.CommandName.CREATE_VEHICLE
+2017-07-24 20:18:56,508 ERROR [com.epam.ta.parking.controller.command.CommandProvider] java.lang.IllegalArgumentException: No enum constant com.epam.ta.parking.controller.command.CommandName.CREATE_VEHICLE
+2017-07-24 20:19:44,849 ERROR [com.epam.ta.parking.controller.command.CommandProvider] java.lang.IllegalArgumentException: No enum constant com.epam.ta.parking.controller.command.CommandName.CREATE_VEHICLE
+2017-07-24 20:20:12,695 ERROR [com.epam.ta.parking.controller.command.CommandProvider] java.lang.IllegalArgumentException: No enum constant com.epam.ta.parking.controller.command.CommandName.CREATE_VEHICLE
+2017-07-25 10:39:48,155 ERROR [com.epam.ta.parking.controller.command.CommandProvider] java.lang.IllegalArgumentException: No enum constant com.epam.ta.parking.controller.command.CommandName.CREATE_VEHICLE
+2017-07-25 10:40:51,210 ERROR [com.epam.ta.parking.controller.command.CommandProvider] java.lang.IllegalArgumentException: No enum constant com.epam.ta.parking.controller.command.CommandName.CREATE_VEHICLE
+2017-07-25 10:41:00,654 ERROR [com.epam.ta.parking.controller.command.CommandProvider] java.lang.IllegalArgumentException: No enum constant com.epam.ta.parking.controller.command.CommandName.CREATE_VEHICLE
+2017-07-25 10:41:46,953 ERROR [com.epam.ta.parking.controller.command.CommandProvider] java.lang.IllegalArgumentException: No enum constant com.epam.ta.parking.controller.command.CommandName.CREATE_VEHICLE
+2017-07-25 10:42:14,469 ERROR [com.epam.ta.parking.controller.command.CommandProvider] java.lang.IllegalArgumentException: No enum constant com.epam.ta.parking.controller.command.CommandName.CREATE_VEHICLE
+2017-07-25 10:42:30,436 ERROR [com.epam.ta.parking.controller.command.CommandProvider] java.lang.IllegalArgumentException: No enum constant com.epam.ta.parking.controller.command.CommandName.CREATE_VEHICLE
+2017-07-25 10:43:01,105 ERROR [com.epam.ta.parking.controller.command.CommandProvider] java.lang.IllegalArgumentException: No enum constant com.epam.ta.parking.controller.command.CommandName.CREATE_VEHICLE
+2017-07-25 10:43:24,342 ERROR [com.epam.ta.parking.controller.command.CommandProvider] java.lang.IllegalArgumentException: No enum constant com.epam.ta.parking.controller.command.CommandName.CREATE_VEHICLE
+2017-07-25 10:43:33,071 ERROR [com.epam.ta.parking.controller.command.CommandProvider] java.lang.IllegalArgumentException: No enum constant com.epam.ta.parking.controller.command.CommandName.CREATE_VEHICLE
+2017-07-25 10:43:48,014 ERROR [com.epam.ta.parking.controller.command.CommandProvider] java.lang.IllegalArgumentException: No enum constant com.epam.ta.parking.controller.command.CommandName.CREATE_VEHICLE
+2017-07-25 10:44:05,107 ERROR [com.epam.ta.parking.controller.command.CommandProvider] java.lang.IllegalArgumentException: No enum constant com.epam.ta.parking.controller.command.CommandName.CREATE_VEHICLE
+2017-07-25 10:44:48,642 ERROR [com.epam.ta.parking.controller.command.CommandProvider] java.lang.IllegalArgumentException: No enum constant com.epam.ta.parking.controller.command.CommandName.CREATE_VEHICLE
+2017-07-25 16:15:33,737 ERROR [com.epam.ta.parking.controller.command.impl.ReserveSlot] com.epam.ta.parking.service.exception.ServiceLogicalException: com.epam.ta.parking.dao.exception.DaoLogicalException: Slot already exists.
+2017-07-25 16:18:17,705 ERROR [com.epam.ta.parking.controller.command.impl.CreateVehicle] com.epam.ta.parking.service.exception.ServiceLogicalException: com.epam.ta.parking.dao.exception.DaoLogicalException: Vehicle already registered.
+2017-07-25 16:19:32,740 ERROR [com.epam.ta.parking.controller.command.impl.CreateVehicle] com.epam.ta.parking.service.exception.ServiceLogicalException: com.epam.ta.parking.dao.exception.DaoLogicalException: Vehicle already registered.
+2017-07-25 16:21:17,358 ERROR [com.epam.ta.parking.controller.command.impl.CreateVehicle] com.epam.ta.parking.service.exception.ServiceLogicalException: com.epam.ta.parking.dao.exception.DaoLogicalException: Vehicle already registered.
+2017-07-25 16:22:04,110 ERROR [com.epam.ta.parking.controller.command.impl.CreateVehicle] com.epam.ta.parking.service.exception.ServiceLogicalException: com.epam.ta.parking.dao.exception.DaoLogicalException: Vehicle already registered.
+2017-07-25 16:37:14,101 ERROR [com.epam.ta.parking.controller.Controller] Failed to execute a task
+java.lang.ClassCastException: java.lang.String cannot be cast to java.lang.Double
+	at com.epam.ta.parking.controller.command.impl.FreeSlotReservation.execute(FreeSlotReservation.java:55)
+	at com.epam.ta.parking.controller.Controller.executeTask(Controller.java:46)
+	at com.epam.ta.parking.view.ViewPerformer.processFreeSlotReservaton(ViewPerformer.java:377)
+	at com.epam.ta.parking.view.ViewPerformer.openConsoleSession(ViewPerformer.java:115)
+	at com.epam.ta.parking.view.ViewRunner.main(ViewRunner.java:15)
+2017-07-25 16:39:41,777 ERROR [com.epam.ta.parking.controller.Controller] Failed to execute a task
+java.lang.ClassCastException: java.lang.String cannot be cast to java.lang.Double
+	at com.epam.ta.parking.controller.command.impl.FreeSlotReservation.execute(FreeSlotReservation.java:55)
+	at com.epam.ta.parking.controller.Controller.executeTask(Controller.java:46)
+	at com.epam.ta.parking.view.ViewPerformer.processFreeSlotReservaton(ViewPerformer.java:377)
+	at com.epam.ta.parking.view.ViewPerformer.openConsoleSession(ViewPerformer.java:115)
+	at com.epam.ta.parking.view.ViewRunner.main(ViewRunner.java:15)
+2017-07-25 16:45:57,783 ERROR [com.epam.ta.parking.controller.command.impl.CreateVehicle] com.epam.ta.parking.service.exception.ServiceLogicalException: com.epam.ta.parking.dao.exception.DaoLogicalException: Vehicle already registered.
+2017-07-25 16:46:43,967 ERROR [com.epam.ta.parking.controller.Controller] Failed to execute a task
+java.lang.NullPointerException
+	at sun.misc.FloatingDecimal.readJavaFormatString(Unknown Source)
+	at sun.misc.FloatingDecimal.parseDouble(Unknown Source)
+	at java.lang.Double.parseDouble(Unknown Source)
+	at java.lang.Double.valueOf(Unknown Source)
+	at com.epam.ta.parking.controller.command.impl.FreeSlotReservation.execute(FreeSlotReservation.java:59)
+	at com.epam.ta.parking.controller.Controller.executeTask(Controller.java:46)
+	at com.epam.ta.parking.view.ViewPerformer.processFreeSlotReservaton(ViewPerformer.java:377)
+	at com.epam.ta.parking.view.ViewPerformer.openConsoleSession(ViewPerformer.java:115)
+	at com.epam.ta.parking.view.ViewRunner.main(ViewRunner.java:15)
+2017-07-25 16:47:49,812 ERROR [com.epam.ta.parking.controller.Controller] Failed to execute a task
+java.lang.NullPointerException
+	at sun.misc.FloatingDecimal.readJavaFormatString(Unknown Source)
+	at sun.misc.FloatingDecimal.parseDouble(Unknown Source)
+	at java.lang.Double.parseDouble(Unknown Source)
+	at java.lang.Double.valueOf(Unknown Source)
+	at com.epam.ta.parking.controller.command.impl.FreeSlotReservation.execute(FreeSlotReservation.java:59)
+	at com.epam.ta.parking.controller.Controller.executeTask(Controller.java:46)
+	at com.epam.ta.parking.view.ViewPerformer.processFreeSlotReservaton(ViewPerformer.java:377)
+	at com.epam.ta.parking.view.ViewPerformer.openConsoleSession(ViewPerformer.java:115)
+	at com.epam.ta.parking.view.ViewRunner.main(ViewRunner.java:15)
+2017-07-25 16:57:05,064 ERROR [com.epam.ta.parking.controller.Controller] Failed to execute a task
+java.lang.NullPointerException
+	at sun.misc.FloatingDecimal.readJavaFormatString(Unknown Source)
+	at sun.misc.FloatingDecimal.parseDouble(Unknown Source)
+	at java.lang.Double.parseDouble(Unknown Source)
+	at java.lang.Double.valueOf(Unknown Source)
+	at com.epam.ta.parking.service.impl.CostServiceImpl.getOccupationCost(CostServiceImpl.java:65)
+	at com.epam.ta.parking.controller.command.impl.FreeSlotReservation.execute(FreeSlotReservation.java:61)
+	at com.epam.ta.parking.controller.Controller.executeTask(Controller.java:46)
+	at com.epam.ta.parking.view.ViewPerformer.processFreeSlotReservaton(ViewPerformer.java:377)
+	at com.epam.ta.parking.view.ViewPerformer.openConsoleSession(ViewPerformer.java:115)
+	at com.epam.ta.parking.view.ViewRunner.main(ViewRunner.java:15)
+2017-07-25 17:23:14,802 ERROR [com.epam.ta.parking.controller.command.impl.ReserveSlot] com.epam.ta.parking.service.exception.ServiceLogicalException: com.epam.ta.parking.dao.exception.DaoLogicalException: Slot already exists.
